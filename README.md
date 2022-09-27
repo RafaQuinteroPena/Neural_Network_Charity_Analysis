@@ -1,6 +1,8 @@
 # Neural_Network_Charity_Analysis
 We wanted to use a deep learning neural network to analyze and classify charitable donations from the data provided by Alphabet Soup.
-## Results
+# Results
+
+## Data
 We considered the "IS_Successful" variable to determine if the donattion was used effectively. We can also consider other variables to be the features of the model, these are: 
 -APPLICATION_TYPE
 -AFFILIATION
