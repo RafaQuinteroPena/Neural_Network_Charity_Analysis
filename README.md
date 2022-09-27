@@ -21,7 +21,7 @@ At first, for the model, we used 2 layers with 80 and 30 neurons respectively. A
 
 ![This is an image](https://github.com/rafaq2000/Neural_Network_Charity_Analysis/blob/main/Images/First%20Model.png)
 
-![This is an image](https://github.com/rafaq2000/Neural_Network_Charity_Analysis/blob/main/Images/First%20Model%20Results.png)
+![This is an image](https://github.com/rafaq2000/Neural_Network_Charity_Analysis/blob/main/First%20Model%20Results.png)
 
 It was decided that an optimization was required to see if the desired 75% accuracy could be reached, for this we instead used 5 hidded layers of 200, 180, 150, 110, and 90 neurons respectively with "tanh" and "sigmoid" activation functions, this increased accuracy to 72%.
 
