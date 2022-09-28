@@ -30,4 +30,6 @@ It was decided that an optimization was required to see if the desired 75% accur
 ![This is an image](https://github.com/rafaq2000/Neural_Network_Charity_Analysis/blob/main/Images/Optimization%20%20Model%20Results.png)
 
 ## Summary
-The current deep learning model has an accuracy of 72% and a loss of 57%. Three optimization trials were run to try to achieve the target 75% accuracy. More layers and neurons were added in each try, as well as different activation functions. However, the target was not reached, perhaps a different activation function must be used to optimize the current model. 
+The current deep learning model has an accuracy of 72% and a loss of 57%. Three optimization trials were run to try to achieve the target 75% accuracy. More layers and neurons were added in each try, as well as different activation functions. However, the target was not reached, perhaps a different activation function must be used to optimize the current model.
+
+##### Note: the ipynb files were written in Google Colab and then exported as an ipynb file. The Tensorflow dependency would cause the kernel to die when I tried to import the decency 
